@@ -4,6 +4,8 @@ This project was about designing and developing a Household Tariff Analysis App.
 # Household Tariff Analysis App
 <img width="800" height="786" alt="image" src="https://github.com/user-attachments/assets/1a45164c-514c-4006-8dc8-601fda907aa1" />
 
+<img width="1000" height="927" alt="image" src="https://github.com/user-attachments/assets/0d9c822d-91cd-45cb-a90f-c110a811fd8e" />
+
 # Testing
 <img width="500" height="406" alt="image" src="https://github.com/user-attachments/assets/ef66b22c-7b14-450f-91df-7151d629a641" />
 
