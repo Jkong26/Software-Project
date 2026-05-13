@@ -2,7 +2,7 @@
 This project was about designing and developing a Household Tariff Analysis App. My main responsibilities focused on conduct testing and quality assurance, where I designed and executed unit tests and performed statement and branch coverage testing which must achieve 100% coverage and pass rates.
 
 # Household Tariff Analysis App
-<img width="1399" height="275" alt="image" src="https://github.com/user-attachments/assets/0b9a52a7-8a1e-41ee-8331-3dfafc00ac0f" />
+<img width="992" height="727" alt="image" src="https://github.com/user-attachments/assets/7272ec8f-4d9d-4208-95d4-677d354c85f4" />
 
 <img width="1000" height="927" alt="image" src="https://github.com/user-attachments/assets/0d9c822d-91cd-45cb-a90f-c110a811fd8e" />
 
