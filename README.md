@@ -9,7 +9,7 @@ This project was about designing and developing a Household Tariff Analysis App.
 # Testing
 <img width="1399" height="275" alt="image" src="https://github.com/user-attachments/assets/5e0b7178-5066-418f-b851-63fb8c497f15" />
 
-<img width="800" height="736" alt="image" src="https://github.com/user-attachments/assets/d37cc921-5de7-4091-8c88-3fa7b1b05c0d" />
+<img width="1901" height="944" alt="image" src="https://github.com/user-attachments/assets/9abc7ef1-800a-4b98-a95a-f0a955071e83" />
 
 # Statement Coverage Testing
 <img width="500" height="384" alt="image" src="https://github.com/user-attachments/assets/90a89293-2823-4bd5-b30f-de45dbd11ada" />
